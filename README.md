@@ -1,4 +1,4 @@
-## 📂 business-process-automation
+# 📈 Business Process Automation
 
 **Institution:** Tribunal de Contas do Estado do Rio Grande do Sul  
 **Duration:** December 2004 – January 2021  
