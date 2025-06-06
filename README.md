@@ -2,7 +2,7 @@
 
 **Institution:** Tribunal de Contas do Estado do Rio Grande do Sul  
 **Duration:** December 2004 – March 2016  
-**Role:** Public Auditor working as a System Analyst / Pl-SQL Developer 
+**Role:** Public Auditor working as a System Analyst / Pl-SQL Developer  
 **Note:** Due to confidentiality, code and data files cannot be shared.
 
 ### 📌 Project Overview
