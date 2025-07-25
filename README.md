@@ -1,8 +1,8 @@
 # 🧩 Business Process Automation with Oracle Workflow
 
-**Institution:** Tribunal de Contas do Estado do Rio Grande do Sul  
+**Institution:** Court of Auditors of Rio Grande do Sul / Tribunal de Contas do Estado do Rio Grande do Sul (TCE-RS)  
 **Duration:** December 2004 – March 2016  
-**Role:** Public Auditor working as a System Analyst / Pl-SQL Developer  
+**Role:** Public Auditor working as a System Analyst / PL-SQL Developer  
 **Note:** Due to confidentiality, code and data files cannot be shared.
 
 ### 📌 Project Overview
@@ -12,7 +12,7 @@ Automated approval workflows across departments to reduce paper usage and enhanc
 At the Court of Accounts of Rio Grande do Sul (TCE-RS), internal departments relied on manual, paper-based service requests, which resulted in delays, high costs, and a lack of process transparency.
 
 **Task:**  
-Design and implement automated workflows to improve service efficiency, reduce paper usage, and enable data traceability.
+Design and implement automated workflows to enhance service efficiency, minimize paper usage, and facilitate data traceability.
 
 **Action:**
 - Mapped AS-IS and TO-BE business processes in close collaboration with stakeholders.
